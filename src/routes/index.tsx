@@ -84,7 +84,12 @@ function Index() {
           Money that reads your intentions before you reach for the app.
         </p>
 
-        <div className="mt-10 inline-flex animate-rise items-center gap-3 rounded-full border border-mist/15 bg-ink-2/70 px-5 py-2.5 [animation-delay:580ms]">
+        <p className="mt-6 max-w-[52ch] text-pretty text-sm font-semibold leading-relaxed text-mist/90 animate-rise [animation-delay:520ms]">
+          People behind Bank91 — Seasoned BFSI and Tech experts with 20+ years of experience
+          building for India and Global markets, and fintech ecosystems for 100+ million users.
+        </p>
+
+        <div className="mt-10 inline-flex animate-rise items-center gap-3 rounded-full border border-mist/15 bg-ink-2/70 px-5 py-2.5 [animation-delay:640ms]">
           <span className="size-2 animate-pulse-dot rounded-full bg-marigold" />
           <span className="font-mono text-xs uppercase tracking-[0.28em] text-mist/85">
             Coming soon · Stay tuned

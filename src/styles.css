@@ -161,9 +161,9 @@
   --color-faded: var(--faded);
   --color-marigold: var(--marigold);
   --color-rangi: var(--rangi);
-  --font-display: "Cinzel", serif;
-  --font-body: "Inter", sans-serif;
-  --font-mono: "JetBrains Mono", monospace;
+  --font-display: -apple-system, BlinkMacSystemFont, "SF Pro Display", "Inter", "Segoe UI", Roboto, "Helvetica Neue", Arial, sans-serif;
+  --font-body: -apple-system, BlinkMacSystemFont, "SF Pro Text", "Inter", "Segoe UI", Roboto, "Helvetica Neue", Arial, sans-serif;
+  --font-mono: "JetBrains Mono", ui-monospace, SFMono-Regular, Menlo, Monaco, Consolas, monospace;
   --animate-rise: rise 0.9s var(--ease-b91) both;
   --animate-spin-slow: spin 90s linear infinite;
   --animate-spin-slower: spin 150s linear infinite reverse;
