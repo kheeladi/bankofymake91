@@ -12,6 +12,7 @@ export const Route = createFileRoute("/")({
       { property: "og:title", content: TITLE },
       { property: "og:description", content: DESCRIPTION },
       { property: "og:type", content: "website" },
+      { property: "og:site_name", content: "Bank91" },
       { name: "twitter:card", content: "summary_large_image" },
     ],
   }),
